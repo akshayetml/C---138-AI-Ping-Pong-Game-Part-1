@@ -1,0 +1,19 @@
+.heading
+{
+width: 100%;
+text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid rgb(255, 19, 19);
+}
+
+#start ,#status 
+{
+font-size: 22px;
+}
